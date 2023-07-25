@@ -7,14 +7,14 @@ Welcome to TechGirls, a React.js application where women of any skill level can 
 TechGirls is a web application built with React.js that aims to make learning interactive and enjoyable. It provides a collection of tech related courses and allows users to test their knowledge. Whether you're a beginner learning new tech skills this platform offers a great way to challenge yourself and improve your skills.
 
 ## Screenshots of CodeQuiz app
-<hr style="5px solid red">
+<hr>
   <div>
     <img src="./src/assets/Desktop.JPG" alt="welcome" style="border: 1px solid black; ">
-    <img src="./src/assets/footer-mobile.JPG" alt="mobile" style="width: border: 1px solid black; margin-left: 5px;">
+     <img src='./src/assets/footer.JPG' alt='footer' style=" border: 1px solid black; margin-left: 5px;">
      <img src='./src/assets/Login-mobile.JPG' alt='footer' style=" border: 1px solid black; margin-left: 5px;">
       <img src='./src/assets/mobile.JPG' alt='footer' style=" border: 1px solid black; margin-left: 5px;">
        <img src='./src/assets/sign-up-mobile.JPG' alt='footer' style=" border: 1px solid black; margin-left: 5px;">
-        <img src='./src/assets/footer.JPG' alt='footer' style=" border: 1px solid black; margin-left: 5px;">
+         <img src="./src/assets/footer-mobile.JPG" alt="mobile" style="width: border: 1px solid black; margin-left: 5px;">
   </div> 
 <br>
 <hr>
