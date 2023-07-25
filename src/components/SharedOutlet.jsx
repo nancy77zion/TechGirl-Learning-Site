@@ -28,7 +28,7 @@ const SharedOutlet = () => {
             </div>
             <p className='pt-3 px-3'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam vitae mollitia tenetur corporis. Natus ex nemo dicta obcaecati, sapiente, ut voluptate ratione modi iure accusantium similique</p>
           </div>
-          <div className='col-md-4 text-center py-4'>
+          <div className='col-md-4 text-center py-4 '>
             <h4>Quick links</h4>
             <div className='d-flex flex-column'>
               <Link className='pt-2 text-decoration-none text-black'>About</Link>
