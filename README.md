@@ -11,10 +11,10 @@ TechGirls is a web application built with React.js that aims to make learning in
   <div>
     <img src="./src/assets/Desktop.JPG" alt="welcome" style="border: 1px solid black; ">
     <img src="./src/assets/footer-mobile.JPG" alt="mobile" style="width: border: 1px solid black; margin-left: 5px;">
-    <img src='./src/assets/footer.JPG' alt='footer' style=" border: 1px solid black; margin-left: 5px;">
      <img src='./src/assets/Login-mobile.JPG' alt='footer' style=" border: 1px solid black; margin-left: 5px;">
       <img src='./src/assets/mobile.JPG' alt='footer' style=" border: 1px solid black; margin-left: 5px;">
        <img src='./src/assets/sign-up-mobile.JPG' alt='footer' style=" border: 1px solid black; margin-left: 5px;">
+        <img src='./src/assets/footer.JPG' alt='footer' style=" border: 1px solid black; margin-left: 5px;">
   </div> 
 <br>
 <hr>
