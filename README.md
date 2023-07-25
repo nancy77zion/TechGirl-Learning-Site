@@ -19,13 +19,11 @@ TechGirls is a web application built with React.js that aims to make learning in
 <br>
 <hr>
 
-## Deployment link  [Vercel link](https://quiz-app-one-sand.vercel.app/) and  [Netlify link](https://quiz-vite-app.netlify.app/)
+## Deployment link [Netlify link](https://techgirls-site.netlify.app/) 
+    click the above link to view or explore the site
+  
 
-
-- Interactive quizzes to test your React.js knowledge
-- User-friendly interface for easy navigation
-- Immediate feedback on quiz results
-- Track your progress and improve your skills
+##Features
 
 ## Styling 
 
@@ -39,13 +37,12 @@ TechGirls is a web application built with React.js that aims to make learning in
 
 1. Start the application: `yarn dev`
 2. Open your browser and visit `http://localhost:5173`
-3. You will be greeted with the welcome screen of Quizzy.
-4. Click on the "Get Started Here" button to start the quiz.
-5. Answer the quiz questions and see your results.
+3. Click on the "Get Started Here" button.
+5. register.
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to CodeQuiz, please follow these steps:
+Contributions and feedbacks are welcome! If you'd like to contribute, please follow these steps:
 
 1. Fork the repository
 2. Create a new branch: `git checkout -b <branch name>`
